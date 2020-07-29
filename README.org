@@ -30,3 +30,6 @@ I am currently working with [[https://doc.rust-lang.org/stable/book][the book]].
 - Every copy in rust is a shallow copy if not stated otherwise
 - you can copy things of known size (like integers), which are stored on the stack
 - you can only borrow things that go to the heap, otherwise you have to clone it
+
+*** Chapter 8 - Collections
+- [[./averager/src/main.rs][Averager]]
